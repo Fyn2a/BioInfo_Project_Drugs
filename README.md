@@ -1,4 +1,4 @@
-# BioInfo_Project_Drugs
+# Drug Discovery
  
 ## Druglikeness
 Druglikeness refers to the similarity of the properties between compounds and existing drugs.
